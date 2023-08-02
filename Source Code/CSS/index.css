@@ -1,0 +1,27 @@
+.bg-dark {
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymVQEX24vtkUpjjhcFhW77m4xouSwNKT-eXFMewN02T-eMGVlhB4grn-T7gVU4g1OAOk&usqp=CAU");
+}
+.card mt-50{
+    background-color: aqua;
+
+}
+.mt-50 {
+    margin-top: 50px;
+    border-radius: 40px;
+}
+.container{
+    border-radius:30px;
+}
+#canvas {
+    border: 2px solid black;
+}
+.col-md-10{
+    border-radius: 20px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymVQEX24vtkUpjjhcFhW77m4xouSwNKT-eXFMewN02T-eMGVlhB4grn-T7gVU4g1OAOk&usqp=CAU")
+}
+.lbl{
+    background-color: aqua;
+    font-size : large;
+    text-align : center;  
+}

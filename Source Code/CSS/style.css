@@ -1,0 +1,102 @@
+.col-12{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-futuristic-background-with-hexagons-dark-scifi-hitech-with-vector-id1315800229?k=20&m=1315800229&s=612x612&w=0&h=l_AO5piHvWhegTZzbZZwXZJ9fS5EyydWA2GnwbsF5IU=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.2rem;
+    border-radius: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(130, 141, 141);
+    font-weight: bold;
+
+}
+
+.card-body{
+     /* background-color: gold;  */
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymVQEX24vtkUpjjhcFhW77m4xouSwNKT-eXFMewN02T-eMGVlhB4grn-T7gVU4g1OAOk&usqp=CAU"); */
+    background-image : url("https://wallpaper.dog/large/11048159.jpg");
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    text-align: center;
+}
+
+.card-header{
+    background-color: rgb(154, 154, 128);
+    color: rgb(130, 141, 141);
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("https://media.istockphoto.com/vectors/abstract-futuristic-background-with-hexagons-dark-scifi-hitech-with-vector-id1315800229?k=20&m=1315800229&s=612x612&w=0&h=l_AO5piHvWhegTZzbZZwXZJ9fS5EyydWA2GnwbsF5IU=");
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+    
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+} 
+
+
+label{
+    font-weight: 200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top:10px;
+    color: rgb(130, 141, 141);
+    font-style: oblique;
+    
+}
+
+label:hover{
+    color: rgb(247, 242, 242);
+}
+
+
+.selectpicker-form-control{
+    background-color:lightcyan;
+    width:80%;
+    border-radius:10px;
+    border-width: 2px;
+    border-color:pink;
+    text-align: center;
+}
+
+.selectpicker-form-control:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+
+.col-md-10-form-group{
+    text-align: center;
+ }
+
+ .btn-btn-primary-form-control{
+    background-image: url("https://media.istockphoto.com/vectors/abstract-futuristic-background-with-hexagons-dark-scifi-hitech-with-vector-id1315800229?k=20&m=1315800229&s=612x612&w=0&h=l_AO5piHvWhegTZzbZZwXZJ9fS5EyydWA2GnwbsF5IU=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    margin-top: 20px;
+    font-size: x-large;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(247, 242, 242);
+    border-radius: 20px;
+
+
+}
+
+ 
+ .btn-btn-primary-form-control:hover{
+    text-decoration:underline;
+    color: rgb(247, 242, 242);
+}
+.bg-dark{
+    background-color: antiquewhite;
+}

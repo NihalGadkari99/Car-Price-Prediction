@@ -1,0 +1,89 @@
+.col-12{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZRm1f9OpMhHfb3Meq7T9Rw7C7r4BEdXdD1jDj1ELCA&s");
+    margin: 0px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.2rem;
+    border-radius: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(130, 141, 141);
+    font-weight: bold;
+
+}
+
+.card-body{
+     /* background-color: gold;  */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymVQEX24vtkUpjjhcFhW77m4xouSwNKT-eXFMewN02T-eMGVlhB4grn-T7gVU4g1OAOk&usqp=CAU");
+    
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.card-header{
+    background-color: rgb(154, 154, 128);
+    color: rgb(130, 141, 141);
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZRm1f9OpMhHfb3Meq7T9Rw7C7r4BEdXdD1jDj1ELCA&s");
+    
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+} 
+
+
+label{
+    font-weight: 200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top:10px;
+    color: rgb(130, 141, 141);
+    font-style: oblique;
+    
+}
+
+label:hover{
+    color: rgb(2, 10, 2);
+}
+
+
+.selectpicker-form-control{
+    background-color:lightcyan;
+    width:80%;
+    border-radius:10px;
+    border-width: 2px;
+    border-color:pink;
+    text-align: center;
+}
+
+.selectpicker-form-control:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+
+.col-md-10-form-group{
+    text-align: center;
+ }
+
+ .btn-btn-primary-form-control{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZRm1f9OpMhHfb3Meq7T9Rw7C7r4BEdXdD1jDj1ELCA&s");
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    margin-right: 100px;
+    
+    margin-top: 20px;
+    font-size: x-large;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(130, 141, 141);
+
+
+}
+
+ 
+ .btn-btn-primary-form-control:hover{
+    text-decoration:underline;
+    color: black;
+}
